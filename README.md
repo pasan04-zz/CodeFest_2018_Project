@@ -2,6 +2,12 @@
 
 # Production Management System
 
+Please refer this link in to access the code. We have done it in the gitlab
+1  . https://gitlab.com/codefest-nova/production-management-system
+
+2 .  https://gitlab.com/codefest-nova/pms-final
+
+
 This project creates a PMS in Java. Production line data is obtained from IoT devices via HTTP protocol.
 
 ## Getting started
